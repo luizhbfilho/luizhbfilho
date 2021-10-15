@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zuilinho
-- 👀 I’m interested in learn more languages and improve my skills.
-- 🌱 I’m currently learning Java, Javascript, HTML5, Python and C++.
+- 👀 I’m interested in learn and improve my skills.
+- 🌱 I’m currently learning Java, Javascript, Python and C#.
 - 📫 How to reach me - Instagram: @luizbaldao LinkedIn: Luiz Henrique Baldão.
 
 <!---
