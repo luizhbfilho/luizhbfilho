@@ -1,4 +1,4 @@
-## Olá! Eu sou o Luiz, seja bem vindo ao meu perfil!
+## Hi! I'm Luiz, welcome to my profile!
 
 - 👀 I’m interested in learn and improve my skills.
 - 🌱 I’m currently learning C#, Javascript and Python.
