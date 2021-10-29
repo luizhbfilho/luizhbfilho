@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C#, Javascript and Python.
 - 📫 How to reach me - Instagram: @luizbaldao LinkedIn: Luiz Henrique Baldão.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuilinho)](https://github.com/Zuilinho/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuilinho&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuilinho&show_icons=true&theme=merko)
 
 
