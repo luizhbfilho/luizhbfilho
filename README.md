@@ -8,7 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zuilinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuilinho&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Luiz-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
