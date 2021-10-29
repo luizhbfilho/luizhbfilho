@@ -6,4 +6,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuilinho&show_icons=true&theme=tokyonight)
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
 
