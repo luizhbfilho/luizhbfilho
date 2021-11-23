@@ -1,4 +1,5 @@
 ## Hi! I'm Luiz, welcome to my profile!
+
 <div align="left">
   <a href="https://github.com/Zuilinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zuilinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -11,7 +12,7 @@
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Luiz-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Luiz-Visualstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Luiz-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Luiz-SQLServer" color="white" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 </div>
 
 ##
