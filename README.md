@@ -6,7 +6,7 @@
   <img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuilinho&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Algumas tecnologias  
+## Some technologies  
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Luiz-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
