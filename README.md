@@ -11,7 +11,7 @@
    - 🥇 OOP
    - 🥈 C#
    - 🥉 .NET Framework
-- 📖 Actually i'm studying:
+- 📖 I'm currently studying:
    - 📱 Mobile development with Flutter and Xamarin
    - ⚙️ SQL Databases (PostgreSQL and SQL Server)
    - 💡 Clean code     
