@@ -9,8 +9,8 @@
       - 🥉 Creativity
 - 🏆 Also my top hard skills:
       - 🥇 OOP
-      - 🥈 .NET Framework
-      - 🥉 C#
+      - 🥈 C#
+      - 🥉 .NET Framework
 - 📖 Actually i'm studying:
       - 📱 Mobile development with Flutter and Xamarin
       - ⚙️ SQL Databases (PostgreSQL and SQL Server)
