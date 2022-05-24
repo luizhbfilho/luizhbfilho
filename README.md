@@ -4,17 +4,17 @@
 - 💼 Actually working in Velsis as Junior Analyst
 - 🎮 I like games and tech a lot
 - 🏆 My top soft skills are:
-      - 🥇 Teamwork
-      - 🥈 Communication
-      - 🥉 Creativity
+   - 🥇 Teamwork
+   - 🥈 Communication
+   - 🥉 Creativity
 - 🏆 Also my top hard skills:
-      - 🥇 OOP
-      - 🥈 C#
-      - 🥉 .NET Framework
+   - 🥇 OOP
+   - 🥈 C#
+   - 🥉 .NET Framework
 - 📖 Actually i'm studying:
-      - 📱 Mobile development with Flutter and Xamarin
-      - ⚙️ SQL Databases (PostgreSQL and SQL Server)
-      - 💡 Clean code     
+   - 📱 Mobile development with Flutter and Xamarin
+   - ⚙️ SQL Databases (PostgreSQL and SQL Server)
+   - 💡 Clean code     
 
 <div align="left">
   <a href="https://github.com/Zuilinho">
