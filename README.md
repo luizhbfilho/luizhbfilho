@@ -1,4 +1,20 @@
-## Hi! I'm Luiz, welcome to my profile!
+### Hi! I'm Luiz, welcome to my profile!
+
+- 💻 I study Computer Science on PUCPR
+- 💼 Actually working in Velsis as Junior Analyst
+- 🎮 I like games and tech a lot
+- 🏆 My top soft skills are:
+      - 🥇 Teamwork
+      - 🥈 Communication
+      - 🥉 Creativity
+- 🏆 Also my top hard skills:
+      - 🥇 OOP
+      - 🥈 .NET Framework
+      - 🥉 C#
+- 📖 Actually i'm studying:
+      - 📱 Mobile development with Flutter and Xamarin
+      - ⚙️ SQL Databases (PostgreSQL and SQL Server)
+      - 💡 Clean code     
 
 <div align="left">
   <a href="https://github.com/Zuilinho">
