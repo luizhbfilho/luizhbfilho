@@ -13,9 +13,9 @@
    - 🥉 .NET Framework
 - 📖 I'm currently studying:
    - 📱 Mobile development with Flutter and Xamarin
+   - 💡 Clean code
    - ⚙️ SQL Databases (PostgreSQL and SQL Server)
-   - 💡 Clean code     
-
+        
 <div align="left">
   <a href="https://github.com/Zuilinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zuilinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
