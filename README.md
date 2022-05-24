@@ -1,6 +1,6 @@
 ### Hi! I'm Luiz, welcome to my profile! 🖖🏼
 
-- 💻 I study Computer Science on PUCPR
+- 💻 I study Computer Science on [PUCPR](https://www.pucpr.br/)
 - 💼 Actually working at [Velsis](https://velsis.com.br/) as Junior Analyst
 - 🎮 I like games and tech a lot
 - 🏆 My top soft skills are:
