@@ -12,7 +12,7 @@
    <h4>📖 I'm currently studying:
       📱 Mobile development with Kotlin and Flutter
       💡 Clean code
-      ⚙️ SQL Databases (PostgreSQL and SQL Server)
+      ⚙️ SQL Databases
    </h4>   
 </div>
 <p align="center">
