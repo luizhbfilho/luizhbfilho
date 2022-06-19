@@ -8,19 +8,13 @@
    <h4>🎮 I like games and tech a lot</h4>
 </div>
 
-🏆 My top soft skills are
-   🥇 Teamwork
-   🥈 Communication
-   🥉 Creativity
-🏆 Also my top hard skills:
-   🥇 OOP
-   🥈 Java
-   🥉 Kotlin
-📖 I'm currently studying:
-   📱 Mobile development with Kotlin and Android Studio
-   💡 Clean code
-   ⚙️ SQL Databases (PostgreSQL and SQL Server)
-
+<div align='center'>
+   <h4>📖 I'm currently studying:
+      📱 Mobile development with Kotlin and Flutter
+      💡 Clean code
+      ⚙️ SQL Databases (PostgreSQL and SQL Server)
+   </h4>   
+</div>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zuilinho&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuilinho&hide_border=true&layout=compact&langs_count=7&theme=algolia"/>
