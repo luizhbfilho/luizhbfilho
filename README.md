@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi!+I'm+Luiz%2C+welcome+to+my+profile!+%F0%9F%96%96%F0%9F%8F%BC)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%3C+Hi!+I'm+Luiz%2C+welcome+to+my+profile!+%2F%3E)](https://git.io/typing-svg)
 
 - 💻 I study Computer Science on [PUCPR](https://www.pucpr.br/)
 - 💼 Actually working at [Velsis](https://velsis.com.br/) as Junior Analyst
@@ -46,6 +46,5 @@
   <a href="https://www.twitch.tv/zuilinho1" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:luizhbfilho@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/Zuilinho/Zuilinho/blob/output/github-contribution-grid-snake.svg)
- 
-  </div>
+ ![Snake animation](https://github.com/Zuilinho/Zuilinho/blob/output/github-contribution-grid-snake.svg)
+ </div>
