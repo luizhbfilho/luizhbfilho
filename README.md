@@ -17,8 +17,8 @@
    ⚙️ SQL Databases (PostgreSQL and SQL Server)
 
 <p align="center">
-  <img height="181em" src="https://github-readme-stats.vercel.app/api?username=Zuilinho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="216em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuilinho&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zuilinho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuilinho&layout=compact&langs_count=7&theme=algolia"/>
 </p>
 
 <div align='center'>
