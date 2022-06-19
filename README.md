@@ -53,5 +53,6 @@
   <a href = "mailto:luizhbfilho@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
  
-![Snake animation](https://github.com/Zuilinho/Zuilinho/blob/output/github-contribution-grid-snake.svg)
-
+<div align='center'>
+   ![Snake animation](https://github.com/Zuilinho/Zuilinho/blob/output/github-contribution-grid-snake.svg)
+</div>
