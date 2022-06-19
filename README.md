@@ -55,4 +55,4 @@
 
 ![Snake animation](https://github.com/Zuilinho/Zuilinho/blob/output/github-contribution-grid-snake.svg)
 
-[![Spotify](https://spotify-now-playing-zuilinho.vercel.app/api/spotify)](https://open.spotify.com/user/luizawwn)
+[![Spotify](https://spotify-now-playing-zuilinho.vercel.app/api/spotify?background_color=0d1117&border_color=0d1117)](https://open.spotify.com/user/luizawwn)
