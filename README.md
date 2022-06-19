@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&lines=Hi!+I'm+Luiz%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?background=2309FF00&center=true&vCenter=true&multiline=true&lines=Hi!+I'm+Luiz%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <div align='center'>
    <h4>💻 I study Computer Science on <a href="https://www.pucpr.br/">PUCPR</a></h4>
