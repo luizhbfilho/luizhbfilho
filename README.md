@@ -55,5 +55,5 @@
 
 ![Snake animation](https://github.com/Zuilinho/Zuilinho/blob/output/github-contribution-grid-snake.svg)
 
-[![Spotify](https://spotify-now-playing-tan-eta.vercel.app)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-now-playing-tan-eta.vercel.app)](https://open.spotify.com/user/luizawwn)
 
