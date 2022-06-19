@@ -1,4 +1,4 @@
-### Hi! I'm Luiz, welcome to my profile! 🖖🏼
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi!+I'm+Luiz%2C+welcome+to+my+profile!+%F0%9F%96%96%F0%9F%8F%BC)](https://git.io/typing-svg)
 
 - 💻 I study Computer Science on [PUCPR](https://www.pucpr.br/)
 - 💼 Actually working at [Velsis](https://velsis.com.br/) as Junior Analyst
