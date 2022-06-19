@@ -16,11 +16,11 @@
    💡 Clean code
    ⚙️ SQL Databases (PostgreSQL and SQL Server)
 
-<div align="left">
+<p align="center">
   <a href="https://github.com/Zuilinho">
   <img height="181em" src="https://github-readme-stats.vercel.app/api?username=Zuilinho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="216em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuilinho&layout=compact&langs_count=7&theme=algolia"/>
-</div>
+</p>
 
 <div align='center'>
    <h1>Languages 🌐 </h1>
