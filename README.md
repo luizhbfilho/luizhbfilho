@@ -1,9 +1,12 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi!+I'm+Luiz%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&lines=Hi!+I'm+Luiz%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
 
-💻 I study Computer Science on [PUCPR](https://www.pucpr.br/)
-💼 Actually working at [Velsis](https://velsis.com.br/) as Junior Analyst
-🎮 I like games and tech a lot
-🏆 My top soft skills are:
+<div align='center'>
+   <h4>💻 I study Computer Science on <a href="https://www.pucpr.br/">PUCPR</a></h4>
+   <h4>💼 Actually working at <a href="https://velsis.com.br/">Velsis</a> as Junior Analyst</h4>
+   <h4>🎮 I like games and tech a lot</h4>
+</div>
+
+🏆 My top soft skills are
    🥇 Teamwork
    🥈 Communication
    🥉 Creativity
