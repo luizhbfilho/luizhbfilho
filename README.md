@@ -1,5 +1,6 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%3C+Hi!+I'm+Luiz%2C+welcome+to+my+profile!+%2F%3E)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi!+I'm+Luiz%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
 
+<p align='center'>
 - 💻 I study Computer Science on [PUCPR](https://www.pucpr.br/)
 - 💼 Actually working at [Velsis](https://velsis.com.br/) as Junior Analyst
 - 🎮 I like games and tech a lot
@@ -15,7 +16,7 @@
    - 📱 Mobile development with Kotlin and Android Studio
    - 💡 Clean code
    - ⚙️ SQL Databases (PostgreSQL and SQL Server)
-        
+</p>        
 <div align="left">
   <a href="https://github.com/Zuilinho">
   <img height="181em" src="https://github-readme-stats.vercel.app/api?username=Zuilinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
