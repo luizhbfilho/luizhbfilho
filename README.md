@@ -55,7 +55,7 @@
 ![Snake animation](https://github.com/Zuilinho/Zuilinho/blob/output/github-contribution-grid-snake.svg)
 
 <div align='center'>
-   <h1> Currently listening 🎧 </h1>
+   <h1> Spotify 🎧 </h1>
 </div>
 
 <p align='center'>
