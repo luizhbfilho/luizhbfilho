@@ -32,7 +32,7 @@
 </div>
    
 <div align='center'>
-   <h1>Other technologies 🛠</h1>
+   <h1>Tools 🛠</h1>
 </div>
 <div align='center'><br>
   <img align="center" alt="Luiz-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" title="Android">
