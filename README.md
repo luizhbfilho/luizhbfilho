@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0996F7&size=25&center=true&vCenter=true&width=1000&lines=%3C+Hi!+I'm+Luiz%2C+welcome+%F0%9F%96%96%F0%9F%8F%BC!+%2F%3E)](https://git.io/typing-svg)
 
 <div align='center'>
-   <h4>💻 I study Computer Science on <a href="https://www.pucpr.br/">PUCPR</a></h4>
+   <h4>💻 I'm a Computer Science student on <a href="https://www.pucpr.br/">PUCPR</a></h4>
    <h4>💼 Actually working at <a href="https://velsis.com.br/">Velsis</a> as Junior Analyst</h4>
    <h4>🎮 I like games and tech a lot</h4>
 </div>
