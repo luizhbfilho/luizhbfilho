@@ -5,7 +5,7 @@
 <div align='center'>
    <h4>💻 I'm a Computer Science student on <a href="https://www.pucpr.br/">PUCPR</a></h4>
    <h4>💼 Actually working at <a href="https://velsis.com.br/">Velsis</a> as Junior Analyst</h4>
-   <h4>🎮 I like games and tech a lot</h4>
+   <h4>🎮 I like games, music and tech a lot</h4>
 </div>
 
 <div align='center'>
