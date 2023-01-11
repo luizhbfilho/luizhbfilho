@@ -10,9 +10,10 @@
 
 <div align='center'>
    <h4>📖 I'm currently studying:
-      📱 Mobile development with Kotlin and Flutter
+      📱 Mobile development with Android SDK and Flutter
       💡 Clean code
       ✏️ UI/UX
+      📶 MVVM Architecture
    </h4>   
 </div>
 <p align="center">
