@@ -45,7 +45,7 @@
 
 ##
 <div align='center'>
-   <h1> Contact 📲 </h1>
+   <h1> Contact me 📲 </h1>
 </div>
 
 <div align='center'>
