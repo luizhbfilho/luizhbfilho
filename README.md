@@ -12,7 +12,7 @@
    <h4>📖 I'm currently studying:
       📱 Mobile development with Android SDK and Flutter
       💡 Clean code
-      ✏️ UI/UX
+      ✏️ UI/UX 
       📶 MVVM Architecture
    </h4>   
 </div>
