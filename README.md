@@ -16,10 +16,11 @@
       📶 MVVM Architecture
    </h4>   
 </div>
-<p align="center">
+
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zuilinho&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuilinho&hide_border=true&layout=compact&langs_count=7&theme=algolia"/>
-</p>
+</p> -->
 
 <div align='center'>
    <h1>Languages 🌐 </h1>
