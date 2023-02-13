@@ -17,8 +17,8 @@
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-zuilinho.vercel.app/api?username=Zuilinho&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-zuilinho.vercel.app/api/top-langs/?username=Zuilinho&hide_border=true&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-zuilinho.vercel.app/api?username=luizhbfilho&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-zuilinho.vercel.app/api/top-langs/?username=luizhbfilho&hide_border=true&layout=compact&langs_count=7&theme=algolia"/>
 </p> 
 
 <div align='center'>
