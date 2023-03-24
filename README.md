@@ -22,7 +22,7 @@
 </p> 
 
 <div align='center'>
-   <h1>Languages and tools </h1>
+   <h1>My Specialties 🌟</h1>
 </div>
 <div align='center'><br>
   <img align="center" alt="Luiz-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin">
