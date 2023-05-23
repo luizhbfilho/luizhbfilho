@@ -9,7 +9,7 @@
 
 <div align='center'>
    <h4>📖 I'm currently studying:
-      📱 Mobile development with Android and Flutter
+      📱 Mobile development with Native Android and Flutter
       💡 Clean code
       ✏️ UI/UX 
       📶 MVVM Architecture
