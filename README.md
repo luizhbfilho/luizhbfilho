@@ -9,7 +9,7 @@
 
 <div align='center'>
    <h4>📖 I'm currently studying:
-      📱 Mobile development with Native Android and Flutter
+      📱 Mobile development 
       💡 AI Models
       💽 Data Structures  
       📖 Storytelling
