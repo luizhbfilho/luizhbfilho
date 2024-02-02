@@ -4,7 +4,7 @@
 
 <div align='center'>
    <h4>💻 I'm a Computer Science student at <a href="https://www.pucpr.br/">PUCPR</a></h4>
-   <h4>💼 Actually working at <a href="https://connectedfleet.michelin.com">Michelin</a>, my personal projects and evolving my skills</h4>
+   <h4>💼 Actually working at <a href="https://www.meta.com.br/">Meta</a>, my personal projects and evolving my skills</h4>
 </div>
 <p align="center">
   <img height="180em" src="https://github-readme-stats-zuilinho.vercel.app/api/top-langs/?username=luizhbfilho&hide_border=true&layout=compact&langs_count=7&theme=algolia"/>
