@@ -28,12 +28,10 @@
   <a href = "mailto:devluizhbfilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<!---
-![Snake animation](https://github.com/Zuilinho/Zuilinho/blob/output/github-contribution-grid-snake.svg)
--->
+#
 
 <div align='left'>
-   <h2>🎧 Spotify</h2>
+   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> 
 </div>
 
 <p align='left'>
