@@ -5,23 +5,18 @@
    <h4>💻 I'm a Computer Science student at <a href="https://www.pucpr.br/">PUCPR</a></h4>
    <h4>💼 Actually working at <a href="https://www.meta.com.br/">Meta</a>, my personal projects and evolving my skills</h4>
 </div>
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-zuilinho.vercel.app/api/top-langs/?username=luizhbfilho&hide_border=true&layout=compact&langs_count=7&theme=algolia"/>
-</p> 
 
 <div align='left'>
    <h1>💻 Tech stack</h1>
 </div>
-<div align='left'><br>
-  <img align="center" alt="Luiz-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin">
-  <img align="center" alt="Luiz-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
-  <img align="center" alt="Luiz-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++">
-  <img align="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python">
-  <img align="center" alt="Luiz-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" title="Android">
-  <img align="center" alt="Luiz-Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio">
-  <img align="center" alt="Luiz-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase">
-</div>
-   
+
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23457BFF.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats-zuilinho.vercel.app/api/top-langs/?username=luizhbfilho&hide_border=true&layout=compact&langs_count=7&theme=algolia"/>
+</p> 
+
 <div align='left'>
    <h1>📲 Contact me</h1>
 </div>
