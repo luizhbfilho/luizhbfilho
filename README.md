@@ -2,8 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0996F7&size=25&center=false&vCenter=false&width=1000&lines=%3C+Hi!+I'm+Luiz%2C+welcome+%F0%9F%96%96%F0%9F%8F%BC!+%2F%3E)](https://git.io/typing-svg)
 
 <div align='left'>
-   <h4>💻 I'm a Computer Science student at <a href="https://www.pucpr.br/">PUCPR</a></h4>
-   <h4>💼 Actually working at <a href="https://www.meta.com.br/">Meta</a>, my personal projects and evolving my skills</h4>
+   
+   <h4>With 5 years of my debut in development career I have experiences with multiple languages and frameworks, having contributed to software development in medium and large companies. Focusing on native mobile applications in Android with Kotlin and Java. Actually working at <a href="https://www.meta.com.br/">Meta</a> as Mobile Software Engineer, my personal projects and evolving my skills</h4>
+   <h4>I'm also a Computer Science student at <a href="https://www.pucpr.br/">PUCPR</a></h4>
 </div>
 
 <div align='left'>
