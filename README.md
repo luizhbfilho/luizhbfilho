@@ -3,7 +3,7 @@
 
 <div align='left'>
    
-   <h4>With 5 years of debut in my development career, I have experience with multiple languages and frameworks, having contributed to software development in medium and large companies. Currently my focus is on native mobile applications on Android with Kotlin and Java. I'm working at <a href="https://connectedfleet.michelin.com/pt-br/">Michelin</a> as a Software Engineer, my personal projects and evolving my skills</h4>
+   <h4>With 5 years of debut in my development career, I have experience with multiple languages and frameworks, having contributed to software development in medium and large companies. Currently my focus is on native mobile applications on Android with Kotlin and Java. I'm working at <a href="https://connectedfleet.michelin.com/pt-br/">Michelin</a> as a Software Engineer and my personal projects</h4>
    <h4>I'm also a Computer Science student at <a href="https://www.pucpr.br/">PUCPR</a></h4>
 </div>
 
