@@ -3,7 +3,9 @@
 
 <div align='left'>
    
-   <h4>I am a specialist in mobile application development, focusing on Android. I have experience with native mobile applications on Android with Kotlin and Java. Currently I'm working at <a href="https://connectedfleet.michelin.com/pt-br/">Michelin</a> as a Software Engineer and my personal projects</h4>
+   <h4>I am a specialist in mobile application development, focusing on Android </h4>
+   <h4>My experience is with native mobile applications on Android with Kotlin and Java</h4>
+   <h4>Currently I'm working at <a href="https://connectedfleet.michelin.com/pt-br/">Michelin</a> as a Software Engineer and my personal projects</h4>
    <h4>I'm also a Computer Science student at <a href="https://www.pucpr.br/">PUCPR</a></h4>
 </div>
 
