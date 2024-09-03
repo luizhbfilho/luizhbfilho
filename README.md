@@ -1,8 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0996F7&size=25&center=false&vCenter=false&width=1000&lines=%3C+Hi!+I'm+Luiz%2C+welcome+%F0%9F%96%96%F0%9F%8F%BC!+%2F%3E)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=45F70C&background=E307FF00&width=435&lines=Hi%2C+I'm+Luiz%2C+welcome+%F0%9F%98%89!)](https://git.io/typing-svg)
 <div align='left'>
-   
    <h4>I am a specialist in mobile applications, focusing on Android </h4>
    <h4>My work involves native mobile applications on Android are with Kotlin and Java</h4>
    <h4>Currently I'm working at <a href="https://connectedfleet.michelin.com/pt-br/">Michelin</a> as a Software Engineer and my personal projects</h4>
