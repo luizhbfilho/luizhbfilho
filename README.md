@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=0279FE&background=E307FF00&width=435&lines=Hi%2C+I'm+Luiz%2C+welcome+%F0%9F%98%89!)](https://git.io/typing-svg)
 <div align='left'>
    <h4>I am a specialist in mobile applications, focusing on Android </h4>
@@ -21,6 +20,7 @@
 
 <div align='left'>
    <h2>📲 Contact me</h2>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizhbfilho&color=blue" alt="Profile views" /> </p>
 </div>
 
 <div align='left'>
