@@ -2,7 +2,7 @@
 <div align='left'>
    <h4>I am a specialist in mobile applications, focusing on Android </h4>
    <h4>My work involves native mobile applications on Android with Kotlin and Java</h4>
-   <h4>Currently I'm working at <a href="https://connectedfleet.michelin.com/pt-br/">Michelin</a> as a Software Engineer and my personal projects</h4>
+   <h4>Currently I'm working at <a href="https://www.trimble.com/en">Trimble Inc.</a> as a Software Engineer and my personal projects</h4>
    <h4>I'm also a Computer Science student at <a href="https://www.pucpr.br/">PUCPR</a></h4>
 </div>
 
@@ -11,8 +11,6 @@
 </div>
 
 ![Android](https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=FFFFFF&color=FFFFFF) ![Android SDK](https://img.shields.io/badge/Android_SDK-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23457BFF.svg?style=for-the-badge&logo=obsidian&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white) 
-
-
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats-zuilinho.vercel.app/api/top-langs/?username=luizhbfilho&hide_border=true&layout=compact&langs_count=7&theme=algolia"/>
