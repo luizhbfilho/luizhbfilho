@@ -2,7 +2,7 @@
 <div align='left'>
    <h4>I am a specialist in mobile applications, focusing on Android </h4>
    <h4>My work involves native mobile applications on Android with Kotlin and Java</h4>
-   <h4>Currently I'm working at <a href="https://www.trimble.com/en">Trimble Inc.</a> as a Software Engineer and my personal projects</h4>
+   <h4>Currently I'm working at <a href="https://www.platformscience.com">Platform Science</a> as a Software Engineer and my personal projects</h4>
    <h4>I'm also a Computer Science student at <a href="https://www.pucpr.br/">PUCPR</a></h4>
 </div>
 
