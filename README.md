@@ -31,7 +31,3 @@
 <div align='left'>
    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> 
 </div>
-
-<p align='left'>
-   <img src="https://spotify-now-playing-zuilinho.vercel.app/api/spotify?background_color=0d1117&border_color=0d1117" />
-</p>
