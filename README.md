@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=0279FE&background=E307FF00&width=435&lines=Hi%2C+I'm+Luiz%2C+welcome+%F0%9F%98%89!)](https://git.io/typing-svg)
 <div align='left'>
-   <h4>I am a specialist in mobile and web applications, transforming problems into high quality solutions</h4>
+   <h4>I'm a Software Engineer with 5+ years of experience, specialist in mobile and web applications, transforming problems into high quality solutions</h4>
    <h4>My work involves mobile applications with Kotlin and Java and web applications with Next.js and Node.js</h4>
    <h4>Currently I'm working at <a href="https://www.platformscience.com">Platform Science</a> as a Software Engineer and my personal projects</h4>
 </div>
