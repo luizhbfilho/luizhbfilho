@@ -7,9 +7,6 @@
 
 <div align='left'>
    <h2>My current projects</h2>
-   <a href="https://cronostimer.com" target="_blank">
-      <img src="https://img.shields.io/badge/CronosTimer-Visit_Site-0279FE?style=for-the-badge&logo=clockify&logoColor=white" target="_blank"/>
-   </a>
    <h4>⏱️ <a href="https://cronostimer.com">cronostimer.com</a> — Stay focused, get things done.</h4>
 </div>
 
