@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=0279FE&background=E307FF00&width=435&lines=Hi%2C+I'm+Luiz%2C+welcome+%F0%9F%98%89!)](https://git.io/typing-svg)
 <div align='left'>
    <h4>Currently working as an AI Engineer, I have 6+ years of experience, specialist in mobile and web applications, transforming problems into high quality solutions</h4>
-   <h4>Currently I'm working at <a href="https://quantumrise.com/)">Quantum Rise</a> as an AI Engineer and my personal projects</h4>
+   <h4>Currently I'm working at <a href="https://quantumrise.com)">Quantum Rise</a> as an AI Engineer and my personal projects</h4>
 </div>
 
 <div align='left'>
